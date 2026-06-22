@@ -135,7 +135,7 @@ With just a few clicks, you can:
 | ⌥ + ⌘    | Open Parallel AI |
 | ⌥ + T    | Capture text     |
 | ⌥ + S    | Take screenshot  |
-| ⌥ + S    | Window transparency  |
+| ⌥ + B    | Window transparency  |
 
 ---
 
